@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Unity Projects\Asteroids" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Bonus.cs" t="Include" />
+          <e p="Bullet.cs" t="Include" />
+          <e p="DestroyAll.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
+          <e p="FollowThePath.cs" t="Include" />
+          <e p="LevelController.cs" t="Include" />
+          <e p="MainMenu.cs" t="Include" />
+          <e p="ObjMoving.cs" t="Include" />
+          <e p="PlanetsAndBonus.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="PlayerMoving.cs" t="Include" />
+          <e p="PlayerShooting.cs" t="Include" />
+          <e p="RepeatingBG.cs" t="Include" />
+          <e p="Wave.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Asteroids.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\ildar\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ildar\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Asteroids.1301506582.00" t="ExcludeRecursive" />
+  </component>
+</project>
