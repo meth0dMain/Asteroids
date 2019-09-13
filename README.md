@@ -1,9 +1,9 @@
 # Asteroids
 
-Only for android 
+Only for android devices
 
-![](images/1.png)
+<img src="images/1.png" width="350" >
 
-![](images/2.png)
+<img src="images/2.png" width="350" >
 
-![](images/3.png)
+<img src="images/3.png" width="350" >
