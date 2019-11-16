@@ -6,7 +6,6 @@ public class ObjMoving : MonoBehaviour
 
    void Update()
    {
-       // Move the object vertically with a given speed
-       transform.Translate(Time.deltaTime * speed * Vector3.up);
+	   transform.Translate(Time.deltaTime * speed * Vector3.up);
    }
 }
